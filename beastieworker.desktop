@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Beastie Worker
+Comment=A 3D sokoban-like game featuring Beastie
+Exec=beastieworker
+Icon=beastieworker.png
+Terminal=false
+Categories=Game;LogicGame;
